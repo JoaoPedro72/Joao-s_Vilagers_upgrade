@@ -4,7 +4,7 @@ Datapack que adiciona novos comportamentos para os villagers
 
 # Conteudo:
 
-Villagers desempregados tem change de virar Guardas, Arqueiros ou Magos
+Villagers desempregados tem chance de virar Guardas, Arqueiros ou Magos
 
 ## Guardas
 Vão atacar corpo a corpo monstros que estiverem proximos
