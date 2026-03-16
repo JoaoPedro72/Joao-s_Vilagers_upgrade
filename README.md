@@ -4,7 +4,6 @@ Datapack que adiciona novos comportamentos para os villagers
 
 # Conteudo:
 
-# Tropas
 Villagers desempregados tem change de virar Guardas, Arqueiros ou Magos
 
 ## Guardas
