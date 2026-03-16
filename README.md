@@ -16,11 +16,11 @@ Conforme eles matam monstros eles podem melhorar suas armaduras se houver ferrei
 ## Magos
 Vão usar magias em monstros proximos, os congelando ou atacando
 
-# Clericos
+## Clericos
 Agora clericos irão curar villagers ou mobs aliados proximos
 
-# Ferreiros
+## Ferreiros
 Agora Ferreiros irão consertar Iron_Golens proximos
 
-# Açougueiros
+## Açougueiros
 Agora eles vão procriar vacas proximas e quando houver um numero de vacas proximas ele mata as que estão sobrando
