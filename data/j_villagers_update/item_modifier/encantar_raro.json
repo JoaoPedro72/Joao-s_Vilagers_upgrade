@@ -1,0 +1,5 @@
+{
+  "function": "minecraft:enchant_randomly",
+  "options": "#minecraft:non_treasure",
+  "only_compatible": true
+}

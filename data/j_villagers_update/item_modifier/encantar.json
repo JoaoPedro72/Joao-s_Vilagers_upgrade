@@ -1,0 +1,6 @@
+{
+  "function": "minecraft:enchant_with_levels",
+  "levels": 40,
+  "options": "#minecraft:in_enchanting_table",
+  "conditions": []
+}

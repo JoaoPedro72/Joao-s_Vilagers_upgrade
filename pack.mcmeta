@@ -1,0 +1,12 @@
+{
+	"pack": {
+		"pack_format": 71,
+		"description": "Melhorias para Villagers",
+		"supported_formats": {
+			"min_inclusive": 71,
+			"max_inclusive": 79
+		},
+		"min_format": 71,
+		"max_format": 82
+	}
+}

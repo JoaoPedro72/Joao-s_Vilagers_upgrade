@@ -1,0 +1,1 @@
+$execute as @e[tag=$(id).target] run tag @s remove $(id).target

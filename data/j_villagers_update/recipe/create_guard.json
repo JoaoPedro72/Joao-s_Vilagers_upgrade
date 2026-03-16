@@ -1,0 +1,40 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+      [
+        "minecraft:iron_chestplate"
+      ],
+      [
+        "minecraft:iron_sword"
+      ],
+      [
+        "minecraft:armor_stand"
+      ]
+    ],
+    "result": {
+      "id": "minecraft:bat_spawn_egg",
+      "components": {
+        "minecraft:item_model": "minecraft:iron_sword",
+        "minecraft:entity_data": {
+          "id": "minecraft:armor_stand",
+          "Tags": [
+            "base_criar_guarda"
+          ],
+          "equipment": {
+            "mainhand": {
+              "id": "minecraft:iron_sword",
+              "count": 1
+            },
+            "chest": {
+              "id": "minecraft:iron_chestplate"
+            }
+          },
+          "ShowArms": true,
+          "DisabledSlots": 4144959
+        },
+        "minecraft:custom_name": "Base para Guarda"
+      },
+      "count": 1
+    }
+  }

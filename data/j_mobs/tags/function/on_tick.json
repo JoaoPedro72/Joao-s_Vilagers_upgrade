@@ -1,0 +1,8 @@
+{
+	"replace": false,
+	"values": [
+		"j_mobs:special",
+		"j_mobs:dar_id",
+		"j_mobs:mob_tags"
+	]
+}
